@@ -15,13 +15,10 @@ Hey，我是fauchard，一枚web开发程序猿；
 夯实基础，万丈高楼平地起，基础知识显得格外重要。
 
 🎈博客分享：
+- fauchard.top  🌱
 前端/全栈技术、行业视野、技巧总结、踩坑的经历
 
 个人生活与摄影，养成记录和分享的习惯
-
-欢迎关注公众号一起来学习进步！🌱
-
-![qrcode_for_gh_0cba391ecdb1_258](https://ivolcano.top/upload/2022/08/qrcode_for_gh_0cba391ecdb1_258.jpg)
 
 📫 联系
 - ifauchard@163.com
